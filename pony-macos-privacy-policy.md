@@ -1,6 +1,8 @@
 # Privacy Policy
 
-This policy applies to all information collection and usage in app Pony on macOS.
+This policy applies to all information collection and usage in app "Pony - Pasteboard Nanny" on macOS. 
+
+In the following, it will be simply called as "Pony".
 
 
 ## Information collection and usage
